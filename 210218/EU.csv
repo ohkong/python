@@ -1,0 +1,46 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,continent
+Albania,89,132,54,4.9,EU
+Andorra,245,138,312,12.4,EU
+Armenia,21,179,11,3.8,EU
+Austria,279,75,191,9.7,EU
+Azerbaijan,21,46,5,1.3,EU
+Belarus,142,373,42,14.4,EU
+Belgium,295,84,212,10.5,EU
+Bosnia-Herzegovina,76,173,8,4.6,EU
+Bulgaria,231,252,94,10.3,EU
+Croatia,230,87,254,10.2,EU
+Cyprus,192,154,113,8.2,EU
+Czech Republic,361,170,134,11.8,EU
+Denmark,224,81,278,10.4,EU
+Estonia,224,194,59,9.5,EU
+Finland,263,133,97,10.0,EU
+France,127,151,370,11.8,EU
+Georgia,52,100,149,5.4,EU
+Germany,346,117,175,11.3,EU
+Greece,133,112,218,8.3,EU
+Hungary,234,215,185,11.3,EU
+Iceland,233,61,78,6.6,EU
+Ireland,313,118,165,11.4,EU
+Italy,85,42,237,6.5,EU
+Latvia,281,216,62,10.5,EU
+Lithuania,343,244,56,12.9,EU
+Luxembourg,236,133,271,11.4,EU
+Malta,149,100,120,6.6,EU
+Monaco,0,0,0,0.0,EU
+Montenegro,31,114,128,4.9,EU
+Netherlands,251,88,190,9.4,EU
+Norway,169,71,129,6.7,EU
+Poland,343,215,56,10.9,EU
+Portugal,194,67,339,11.0,EU
+Moldova,109,226,18,6.3,EU
+Romania,297,122,167,10.4,EU
+San Marino,0,0,0,0.0,EU
+Serbia,283,131,127,9.6,EU
+Slovakia,196,293,116,11.4,EU
+Slovenia,270,51,276,10.6,EU
+Spain,284,157,112,10.0,EU
+Sweden,152,60,186,7.2,EU
+Switzerland,185,100,280,10.2,EU
+Macedonia,106,27,86,3.9,EU
+Ukraine,206,237,45,8.9,EU
+United Kingdom,219,126,195,10.4,EU
