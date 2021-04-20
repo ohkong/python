@@ -1,0 +1,9 @@
+color:
+  body: '#00FF00'
+  div: '#FF0000'
+  link: '#0000FF'
+  title: '#FF0000'
+color_def:
+- '#FF0000'
+- '#00FF00'
+- '#0000FF'
